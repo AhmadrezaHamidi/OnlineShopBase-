@@ -1,0 +1,17 @@
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\bin\Debug\net6.0\Application.dll
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\obj\Debug\net6.0\Application.dll
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Application\obj\Debug\net6.0\ref\Application.dll

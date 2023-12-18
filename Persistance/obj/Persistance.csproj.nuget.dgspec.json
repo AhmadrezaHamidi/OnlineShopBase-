@@ -1,0 +1,241 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Persistance\\Persistance.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\a.hamidi\\Downloads\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1 (1)\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Crack\\Crack\\Libs\\Reports.NetCore": {},
+          "http://192.168.2.164/NugetServer/Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\a.hamidi\\Downloads\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1 (1)\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Crack\\Crack\\Libs\\Reports.NetCore": {},
+          "http://192.168.2.164/NugetServer/Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Persistance\\Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Persistance\\Persistance.csproj",
+        "projectName": "Persistance",
+        "projectPath": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Persistance\\Persistance.csproj",
+        "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\a.hamidi\\Downloads\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1 (1)\\Stimulsoft.Reports.Ultimate-Designer.2023.1.1\\Crack\\Crack\\Libs\\Reports.NetCore": {},
+          "http://192.168.2.164/NugetServer/Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\a.hamidi\\Desktop\\NEwProjectDocumention\\SimaV2\\Saderat.SIMA\\OnlineShop\\Application\\Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AspNetCoreRateLimit": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.AutoHistory": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

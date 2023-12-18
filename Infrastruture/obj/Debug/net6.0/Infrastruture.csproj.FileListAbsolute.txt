@@ -1,0 +1,17 @@
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\bin\Debug\net6.0\Infrastruture.deps.json
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\bin\Debug\net6.0\Infrastruture.dll
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\bin\Debug\net6.0\Infrastruture.pdb
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\bin\Debug\net6.0\Application.dll
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\bin\Debug\net6.0\Domain.dll
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\bin\Debug\net6.0\Application.pdb
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\bin\Debug\net6.0\Domain.pdb
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\obj\Debug\net6.0\Infrastruture.csproj.AssemblyReference.cache
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\obj\Debug\net6.0\Infrastruture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\obj\Debug\net6.0\Infrastruture.AssemblyInfoInputs.cache
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\obj\Debug\net6.0\Infrastruture.AssemblyInfo.cs
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\obj\Debug\net6.0\Infrastruture.csproj.CoreCompileInputs.cache
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\obj\Debug\net6.0\Infrastruture.csproj.CopyComplete
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\obj\Debug\net6.0\Infrastruture.dll
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\obj\Debug\net6.0\refint\Infrastruture.dll
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\obj\Debug\net6.0\Infrastruture.pdb
+C:\Users\a.hamidi\Desktop\NEwProjectDocumention\SimaV2\Saderat.SIMA\OnlineShop\Infrastruture\obj\Debug\net6.0\ref\Infrastruture.dll
