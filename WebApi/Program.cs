@@ -1,4 +1,4 @@
-using Application.EF.Context;
+﻿using Application.EF.Context;
 using Microsoft.EntityFrameworkCore;
 using Persistance;
 using Persistance.Base.UnitOfWork;
@@ -16,8 +16,17 @@ builder.Services.AddDataServices(Configuration);
 
 var app = builder.Build();
 
-app.Services.GetRequiredService<IUnitOfWork<BloggingContext>>().DbContext.Database.GetAppliedMigrations();
-app.Services.GetRequiredService<IUnitOfWork<BloggingContext>>().DbContext.Database.Migrate();
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    var unitOfWork = services.GetRequiredService<IUnitOfWork<BloggingContext>>();
+    var migrations = unitOfWork.DbContext.Database.GetAppliedMigrations();
+    unitOfWork.DbContext.Database.Migrate();
+}
+
+//app.Services.GetRequiredService<IUnitOfWork<BloggingContext>>().DbContext.Database.GetAppliedMigrations();
+//app.Services.GetRequiredService<IUnitOfWork<BloggingContext>>().DbContext.Database.Migrate();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

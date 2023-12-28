@@ -1,5 +1,6 @@
 ﻿using Domain.Auth;
 using Domain.Entitites;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Hosting;
@@ -25,6 +26,8 @@ namespace Application.EF.Context
 
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Post> Posts { get; set; }
+        public DbSet<IdentityUser> Users { get; set; }
+
 
         protected override  void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
